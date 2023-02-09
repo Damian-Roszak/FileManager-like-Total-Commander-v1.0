@@ -1,0 +1,11 @@
+C:\Users\Damian\Documents\NET\Lista5\bin\Debug\Lista5.exe.config
+C:\Users\Damian\Documents\NET\Lista5\bin\Debug\Lista5.exe
+C:\Users\Damian\Documents\NET\Lista5\bin\Debug\Lista5.pdb
+C:\Users\Damian\Documents\NET\Lista5\obj\Debug\Lista5.csproj.AssemblyReference.cache
+C:\Users\Damian\Documents\NET\Lista5\obj\Debug\Lista5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Damian\Documents\NET\Lista5\obj\Debug\Lista5.Form1.resources
+C:\Users\Damian\Documents\NET\Lista5\obj\Debug\Lista5.Properties.Resources.resources
+C:\Users\Damian\Documents\NET\Lista5\obj\Debug\Lista5.csproj.GenerateResource.cache
+C:\Users\Damian\Documents\NET\Lista5\obj\Debug\Lista5.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Documents\NET\Lista5\obj\Debug\Lista5.exe
+C:\Users\Damian\Documents\NET\Lista5\obj\Debug\Lista5.pdb
